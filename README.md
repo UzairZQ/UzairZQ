@@ -1,4 +1,4 @@
-### Hi there, I'm Uzair Zia Qureshi! 👋
+### Hi there, I'm Uzair! 👋
 
 - 👀 I'm interested in software development and helping others.
 - 🎓 I'm a Computer Science graduate.
