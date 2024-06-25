@@ -19,10 +19,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UzairZQ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzairZQ&show_icons=true&theme=radical)
-
+-->
 ### 💬 Random Dev Quote
 
 > "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else." - Eagleson's Law
@@ -34,5 +34,5 @@ I am a passionate **Flutter Engineer** with a knack for creating intuitive and d
 ![Visitors](https://komarev.com/ghpvc/?username=UzairZQ&color=blue&style=flat)
 <!-- Add this to make the "I am a Flutter Engineer" text animate -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23FF5733&size=20&lines=I+am+a+Flutter+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23FF5733&size=20&lines=I+am+a+Software+Engineer" />
 </h3>
