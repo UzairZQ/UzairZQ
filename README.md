@@ -31,8 +31,7 @@
 
 I am a passionate **Flutter Engineer** with a knack for creating intuitive and dynamic mobile applications.
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=UzairZQ.UzairZQ)
-
+![Visitors](https://komarev.com/ghpvc/?username=UzairZQ&color=blue&style=flat
 <!-- Add this to make the "I am a Flutter Engineer" text animate -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23FF5733&size=20&lines=I+am+a+Flutter+Engineer" />
