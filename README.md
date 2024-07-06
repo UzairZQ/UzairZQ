@@ -1,6 +1,6 @@
 ### Hi there, I'm Uzair! 👋
 
-- 👀 I'm interested in software development and helping others.
+- 👀 I'm a software engineer who likes to contribute to open source projects.
 - 🎓 I'm a Computer Science graduate.
 - 🌱 I'm currently working on Flutter & FlutterFlow projects.
 - 💞️ I'm looking to collaborate on Flutter projects.
