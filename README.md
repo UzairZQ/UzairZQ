@@ -17,8 +17,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UzairZQ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=UzairZQ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--### 📊 GitHub Stats
 
 ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzairZQ&show_icons=true&theme=radical)
