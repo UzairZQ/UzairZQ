@@ -2,6 +2,7 @@
 
 - 👀 I'm a software engineer who likes to contribute to open source projects.
 - 🎓 I'm a Computer Science graduate.
+-  I'm pursuing my Master's in Computer Science at Frankfurt Univsersity of Applied Sciences
 - 🌱 I'm currently working on Flutter & FlutterFlow projects.
 - 💞️ I'm looking to collaborate on Flutter projects.
 - 📫 How to reach me: [Uzair Zia Qureshi](https://www.linkedin.com/in/uzairqureshi99/) on LinkedIn.
@@ -24,7 +25,7 @@
 -->
 ### 💬 Random Dev Quote
 
-> "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else." - Eagleson's Law
+> "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away" - Antoine de Saint-Exupéry
 
 ### 👨‍💻 About Me
 
