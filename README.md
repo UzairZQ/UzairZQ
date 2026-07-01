@@ -73,16 +73,13 @@ Software engineer based in Frankfurt, Germany. I build offline-first mobile appl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=UzairZQ&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairZQ&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img src="https://streak-stats.demolab.com?user=UzairZQ&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UzairZQ&theme=onestar&no-frame=true&column=7&row=1&margin-w=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairZQ&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <br/>
